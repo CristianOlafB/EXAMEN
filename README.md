@@ -13,4 +13,4 @@ NOTA EXTRA:
 
 Para acceder a firebase y ver los registros si me proporcionan el correo puedo dar permisos para que vean la informacion,
 
-CAPTURAS DE PANTALLA
+CAPTURAS DE PANTALLA EN ISSUES
