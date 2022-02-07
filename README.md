@@ -14,3 +14,6 @@ NOTA EXTRA:
 Para acceder a firebase y ver los registros si me proporcionan el correo puedo dar permisos para que vean la informacion,
 
 CAPTURAS DE PANTALLA EN ISSUES
+
+
+https://github.com/CristianOlafB/EXAMEN/issues/1#issue-1126030142
