@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ExamenOlaf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie">Movie</string>
+    <string name="location">Location</string>
+    <string name="photo">Photo</string>
+    <string name="todo">TODO</string>
+    <string name="something">Something went wrong.</string>
+    <string name="nodata">No data found.</string>
+    <string name="sn">S/N</string>
+    <string name="add_button_select">select image</string>
+    <string name="add_hint_title">Snapshot title</string>
+    <string name="add_button_post">To post</string>
+    <string name="post_message_title">select an image</string>
+    <string name="post_message_valid_title">Please add a title</string>
+    <string name="post_message_post_success">Posted snapshot.</string>
+    <string name="post_message_post_image_fail">The photo could not be uploaded.</string>
+    <string name="post_message_post_snapshot_fail">The photo could not be published.</string>
+    <string name="no_network_warning">Not connected. Please turn on WIFI or mobile data</string>
+    <string name="tittle">Enter a title</string>
+    <string name="btn_save_text">Guardar foto</string>
+    <string name="correcto">correct</string>
+    <string name="error">Error</string>
+    <string name="no_location_error">No location enabled</string>
+    <string name="location_permission_denied_text">Permission denied</string>
+    <string name="location_permission_action_settings_text">Settings</string>
+    <string name="real">Real time location</string>
+    <string name="permission">Debe aceptar los permisos de ubicación para usar esta aplicación.</string>
+    <string name="location_start">Activate real time location</string>
+    <string name="location_pause">Finish location in real time</string>
+    <string name="no_network">No network connection try again later</string>
+    <string name="no_server">Server Error</string>
+    <string name="check_data">Please enter a photo and add a title</string>
+</resources>
